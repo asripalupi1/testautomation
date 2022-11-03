@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ReggressionTest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>ffd44511-6562-49e9-9f0a-97ebec4e4143</testSuiteGuid>
+   <testCaseLink>
+      <guid>2bef3964-7311-43fc-af26-030a7ddc9e52</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_ApplyforNumberPlate/TC_001</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6cc132cf-20d0-4e19-a4dd-853195b82820</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ExcelData</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>6cc132cf-20d0-4e19-a4dd-853195b82820</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Locate</value>
+         <variableId>f03dcdac-a84e-4b5f-ab60-89af2d077860</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6cc132cf-20d0-4e19-a4dd-853195b82820</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ServiceCenter</value>
+         <variableId>5de82d3e-9ea2-4191-8955-51170d464995</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29538b4c-c304-4dd5-a979-4c0f4d3b1e43</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f03dcdac-a84e-4b5f-ab60-89af2d077860</id>
+      <masked>false</masked>
+      <name>Locate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5de82d3e-9ea2-4191-8955-51170d464995</id>
+      <masked>false</masked>
+      <name>ServiceCenter</name>
+   </variable>
+</TestCaseEntity>
